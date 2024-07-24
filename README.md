@@ -1,2 +1,2 @@
 # Propelling-Euro-Truck
-This is a project I did during the Data for energy skill accelerator organised by Shell UK
+This is a project I did during the Data for energy skill accelerator organised by Shell UK.
